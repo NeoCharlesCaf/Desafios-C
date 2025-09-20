@@ -39,8 +39,7 @@ int main(){
     printf("Populacao: ");
     scanf("%d", &populacao);
 
-    //cadastro da segunda carta
-    scanf("%c");
+    //registro da segunda carta
     printf("\n/// carta 2 ///\n");
     printf("Nome da sua cidade:[sem espacos]:");
     scanf(" %s", &nome_cidade2);
